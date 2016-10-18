@@ -2,7 +2,6 @@ let gulp = require('gulp');
 let sass = require('gulp-sass');
 let util = require('gulp-util');
 let watch = require('gulp-watch');
-let reload = require('gulp-livereload');
 let connect = require('gulp-connect');
 let webpack = require('webpack');
 let nodemon = require('nodemon');
